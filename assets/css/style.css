@@ -142,7 +142,7 @@ header a.conbtn:hover {
 .home .image img {
   width: 90%;
   padding: 1rem;
-  animation: float 4s linear infinite;
+  /* animation: float 4s linear infinite; */
 }
 @keyframes float {
   0%,
